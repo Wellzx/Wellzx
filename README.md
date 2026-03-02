@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wellzx&radius=16&theme=one-dark&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Wellzx&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
