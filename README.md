@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Welisson, tenho 18 anos e sou estudante de Back-end e Cybersecurity. Atualmente curso Engenharia de Software na UCSAL.<br><br>Estou focado em construir fundamentos sólidos e aprender ferramentas da tecnologia para desenvolver projetos consistentes e evoluir tecnicamente de forma contínua.</p>
+<p align="left">Me chamo Welisson, tenho 18 anos e sou estudante de Back-end e Cybersecurity.<br><br>Estou focado em construir fundamentos sólidos e aprender ferramentas da tecnologia para desenvolver projetos consistentes e evoluir tecnicamente de forma contínua.</p>
 
 ###
 
