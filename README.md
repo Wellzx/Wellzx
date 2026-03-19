@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Me chamo Welisson, tenho 18 anos e sou estudante de desenvolvimento Back-end.<br><br>Estou focado em construir fundamentos sólidos para desenvolver projetos maiores e inovadores, evoluindo tecnicamente de forma contínua.</p>
+<p align="left">
+Me chamo Welisson, tenho 18 anos e sou estudante de desenvolvimento Back-end com foco em Cybersecurity.<br><br>
+Busco construir fundamentos sólidos em sistemas e segurança, desenvolvendo aplicações seguras e escaláveis enquanto evoluo tecnicamente de forma contínua.
+</p>
 
 ###
 
