@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 eu sou o Welisson</h1>
+<h1 align="center">Hi there 👋 I'm Welisson</h1>
 
 ###
 
@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Me chamo Welisson, tenho 18 anos e sou estudante Back-end e Cybersecurity.<br><br>Estudante focado no desenvolvimento de sistemas focando em três pilares: performance (baixo nível), escalabilidade (back-end) e segurança cibernética. Gosto de entender a fundo como cada camada do software interage com o sistema operacional. E buscando sempre resolver problemas de maneira eficiente.</p>
+<p align="left">
+I'm Welisson, an 18-year-old student passionate about <b>Back-end Development</b> and <b>Cybersecurity</b>. My focus lies in building efficient systems by understanding how software interacts with the operating system—from <b>low-level performance</b> to <b>scalable back-end architectures</b>. Always looking for clean and effective ways to solve technical challenges.
+</p>
 
 ###
 
