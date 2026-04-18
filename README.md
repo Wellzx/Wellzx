@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Welisson, an 18-year-old student passionate about Back-end Development, Infrastructure and Cybersecurity. My focus lies in building efficient and scalable systems, from back-end architecture to containerization and deployment.<br><br>🔐 Interested in Cybersecurity<br><br>🐧 Linux enthusiast (Arch btw)<br><br>🚀 Always looking for clean and effective ways to solve technical challenges<br><br>🌍 Languages:<br>- 🇧🇷 Portuguese (Native)<br>- 🇬🇧 English (Intermediate)</p>
+<p align="left">I'm Welisson, an 18-year-old student passionate about Back-end Development and Infrastructure. My focus lies in building efficient and scalable systems, from back-end architecture to containerization and deployment.<br><br>🔐 Interested in Software Engineer<br><br>🐧 Linux enthusiast<br><br>🚀 Always looking for clean and effective ways to solve technical challenges<br><br>🌍 Languages:<br>- 🇧🇷 Portuguese (Native)<br>- 🇬🇧 English (Intermediate)</p>
 
 ###
 
