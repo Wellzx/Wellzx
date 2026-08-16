@@ -10,15 +10,17 @@
 
 <p align="left">Olá! Meu nome é Welisson Ferreira, tenho 18 anos e sou graduando em Engenharia de Software. Tenho grande interesse por tecnologia em geral, e sou focado em desenvolvimento de sistemas Back-end, Infraestrutura em Cloud/DevOps e Engenharia de IA.<br><br>🐧 Linux enthusiast<br><br>🚀 Always looking for clean and effective ways to solve technical challenges
 
-<img align="right" alt="" width="300px" height="180px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ1ejhmb3UzdWI0ZW10djh2cWRpenRkMmg0ZTRteDloaW41bDR4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e0eLpiPgg6PdMfD8Sh/giphy.gif">
-
+<img align="right" alt="" height="180px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZsbGFmZWRjYmhzY2J4dWg3OGdscTc0am9zanE1Y3F5NThtaWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hXc1uPT464Y4GGzZMI/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](email:welissonferreiradev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/welissondev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/welx.zy/)
+<div>
+  <a href="https://www.youtube.com/@euWeel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/welx.zy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatowelissondferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/welissondev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+</div>
 
 <h3 align="left">Tech Stack</h3>
 
