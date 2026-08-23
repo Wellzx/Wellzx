@@ -91,11 +91,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Wellzx/Wellzx/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/Wellzx/Wellzx/output/galaga-contribution-graph-dark.svg">
+
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Wellzx/Wellzx/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/Wellzx/Wellzx/output/galaga-contribution-graph.svg">
+
   <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/Wellzx/Wellzx/output/pacman-contribution-graph.svg">
+    alt="Galaga contribution graph"
+    src="https://raw.githubusercontent.com/Wellzx/Wellzx/output/galaga-contribution-graph.svg">
 </picture>
