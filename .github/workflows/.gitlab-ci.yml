@@ -9,19 +9,9 @@ generate_pacman:
     - npm install -g pacman-contribution-graph
     - mkdir -p output
 
-    - pacman-contribution-graph
-        --platform gitlab
-        --username "$CI_PROJECT_NAMESPACE"
-        --game pacman
-        --gameTheme gitlab
-        --output output/pacman-contribution-graph.svg
+    - pacman-contribution-graph --platform gitlab --username "$CI_PROJECT_NAMESPACE" --game pacman --gameTheme gitlab --output output/pacman-contribution-graph.svg
 
-    - pacman-contribution-graph
-        --platform gitlab
-        --username "$CI_PROJECT_NAMESPACE"
-        --game pacman
-        --gameTheme gitlab-dark
-        --output output/pacman-contribution-graph-dark.svg
+    - pacman-contribution-graph --platform gitlab --username "$CI_PROJECT_NAMESPACE" --game pacman --gameTheme gitlab-dark --output output/pacman-contribution-graph-dark.svg
 
   artifacts:
     paths:
