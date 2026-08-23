@@ -10,7 +10,7 @@
 
 <p align="left">Olá! Meu nome é Welisson Ferreira, tenho 18 anos e sou graduando em Engenharia de Software. Tenho grande interesse por tecnologia em geral, e sou focado em desenvolvimento de sistemas Back-end, Infraestrutura em Cloud/DevOps e Cybersecurity.<br><br>🐧 Linux enthusiast<br><br>🚀 Always looking for clean and effective ways to solve technical challenges
 
-<img align="right" alt="" height="240px" src="https://media1.tenor.com/m/o0ac5_dijhYAAAAC/low-cortisol-araragi-koyomi.gif">
+<img align="right" alt="" height="200px" src="https://media1.tenor.com/m/o0ac5_dijhYAAAAC/low-cortisol-araragi-koyomi.gif">
 
 <h3 align="left">Connect with me!</h3>
 
