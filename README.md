@@ -10,7 +10,7 @@
 
 <p align="left">Olá! Meu nome é Welisson Ferreira, tenho 18 anos e sou graduando em Engenharia de Software. Tenho grande interesse por tecnologia em geral, e sou focado em desenvolvimento de sistemas Back-end, Infraestrutura em Cloud/DevOps e Cybersecurity.<br><br>🐧 Linux enthusiast<br><br>🚀 Always looking for clean and effective ways to solve technical challenges
 
-<img align="right" alt="" height="180px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt5aXR3dGYwMHRqdGRqNnRiYzY2NWVnenB3NG9jY3MwZnVuZHc3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="" height="180px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x4Mm8wOXo5cGR0Nzd5dDBxMHNja3g1cjhtZzRmbmE4dm1qOTIyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -88,8 +88,14 @@
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Wellzx/Wellzx/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Wellzx/Wellzx/output/pacman-contribution-graph.svg">
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Wellzx/Wellzx/output/pacman-contribution-graph.svg">
 </picture>
